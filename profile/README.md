@@ -144,7 +144,7 @@ Node.js • TypeScript • Discord.js • Lavalink
 Docker • Redis • MongoDB • Nginx  
 
 **Hosting & CDN:**  
-Cloud Servers • Mallu Cloud Hosting • 24/7 Host Support
+Cloud Servers • HostCore Cloud solutions • 24/7 Host Support
 
 </div>
 
@@ -187,11 +187,6 @@ Cloud Servers • Mallu Cloud Hosting • 24/7 Host Support
 [![GitHub](https://img.shields.io/badge/GitHub-raziscofield-181717?style=for-the-badge&logo=github)](https://github.com/raziscofield)
 [![Discord](https://img.shields.io/badge/Discord-razi_scofield-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/875402851986325504)
 
-### Audio Server Manager
-**Zpy** - *Manager & Lead Developer*  
-[![GitHub](https://img.shields.io/badge/GitHub-WroxExm-181717?style=for-the-badge&logo=github)](https://github.com/WrxoExm)
-[![Discord](https://img.shields.io/badge/Discord-Zpy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1153357788081303685)
-
 ### Ui / Ux Designer
 **Hadi** - *Designer / Owner*  
 [![GitHub](https://img.shields.io/badge/GitHub-Hadi(H3)-181717?style=for-the-badge&logo=github)](https://github.com/H3-GaminG)
@@ -211,35 +206,6 @@ Special thanks to all our contributors who help make Nazha better!
 
 ---
 
-## 📈 Development Roadmap  
-
-- [x] Core music playback functionality
-- [x] Multi-platform support
-- [x] Queue management system
-- [x] Interactive controls
-- [x] Audio filters
-- [ ] Custom playlist web dashboard
-- [ ] Advanced analytics
-- [ ] Mobile companion app
-- [ ] AI-powered recommendations
-- [ ] Live radio stations
-
----
-
-## 🤝 Contributing  
-
-We welcome contributions from the community! Whether it's:
-
-- 🐛 **Bug Reports** - Help us identify and fix issues
-- 💡 **Feature Requests** - Suggest new features
-- 🔧 **Pull Requests** - Submit code improvements
-- 📖 **Documentation** - Improve our docs
-- 🌍 **Translations** - Help localize Nazha
-
-Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started!
-
----
-
 ## 📝 License  
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
@@ -249,13 +215,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 🔗 Important Links  
 
 <p align="center">
-  <a href="https://nazha.netlify.app">
-    <img src="https://img.shields.io/badge/🌐%20Website-nazha.netlify.app-5865F2?style=for-the-badge" />
+  <a href="https://nazha.online">
+    <img src="https://img.shields.io/badge/🌐%20Website-nazha.online-5865F2?style=for-the-badge" />
   </a>
-  <a href="https://nazha.netlify.app/docs">
+  <a href="https://nazha.online/docs">
     <img src="https://img.shields.io/badge/📖%20Documentation-docs.nazha-7289DA?style=for-the-badge" />
   </a>
-  <a href="https://nazha.netlify.app/status">
+  <a href="https://nazha.online/status">
     <img src="https://img.shields.io/badge/📊%20Status%20Page-nazha.status-43B581?style=for-the-badge" />
   </a>
 </p>
