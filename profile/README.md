@@ -153,10 +153,10 @@ Cloud Servers • Mallu Cloud Hosting • 24/7 Host Support
 ## 📊 Bot Statistics  
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Servers-200+-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Users-40K+-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Servers-1000+-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Users-400K+-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Uptime-99.9%25-43B581?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/Songs%20Played-10k+-FAA61A?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Songs%20Played-20k+-FAA61A?style=for-the-badge&logo=spotify&logoColor=white" />
 </div>
 
 ---
