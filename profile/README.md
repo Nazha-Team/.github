@@ -388,6 +388,24 @@
 <table>
 <tr>
 <td align="center" width="33%">
+  <img src="https://cdn.discordapp.com/avatars/1119608253765132369/128036ea1f766612e0e309f397ba19d0.png?size=256" width="150" style="border-radius: 50%; border: 3px solid #FFD700;" /><br/><br/>
+  <h3 style="color: #FFD700; margin: 5px 0;">🏷️ Nazha Creator</h3>
+  <p style="color: #b0b0b0; margin: 0;"><strong>Organization Tag</strong></p>
+  <p style="color: #888; margin: 0; font-size: 0.85rem;">Brand & Identity</p>
+  <br/>
+  <a href="https://discord.com/users/1119608253765132369"><img src="https://img.shields.io/badge/Discord-Nazah-e-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" /></a>
+</td>
+<td align="center" width="33%">
+  <img src="https://github.com/oxeeyz.png" width="150" style="border-radius: 50%; border: 3px solid #DAA520;" /><br/><br/>
+  <h3 style="color: #DAA520; margin: 5px 0;">👑 Oxeey</h3>
+  <p style="color: #b0b0b0; margin: 0;"><strong>Owner</strong></p>
+  <p style="color: #888; margin: 0; font-size: 0.85rem;">Project Management</p>
+  <br/>
+  <a href="https://github.com/oxeeyz"><img src="https://img.shields.io/badge/GitHub-Oxeeyz-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+  <br/>
+  <a href="https://discord.com/users/1050593287590920232"><img src="https://img.shields.io/badge/Discord-Oxeeyz-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" /></a>
+</td>
+<td align="center" width="33%">
   <img src="https://github.com/raziscofield.png" width="150" style="border-radius: 50%; border: 3px solid #FFD700;" /><br/><br/>
   <h3 style="color: #FFD700; margin: 5px 0;">🌟 Razi</h3>
   <p style="color: #b0b0b0; margin: 0;"><strong>Lead Developer</strong></p>
@@ -396,6 +414,26 @@
   <a href="https://github.com/raziscofield"><img src="https://img.shields.io/badge/GitHub-raziscofield-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
   <br/>
   <a href="https://discord.com/users/875402851986325504"><img src="https://img.shields.io/badge/Discord-razi__scofield-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <img src="https://github.com/H3-GaminG.png" width="150" style="border-radius: 50%; border: 3px solid #FF8C00;" /><br/><br/>
+  <h3 style="color: #FF8C00; margin: 5px 0;">🎨 Hadi</h3>
+  <p style="color: #b0b0b0; margin: 0;"><strong>UI/UX Designer</strong></p>
+  <p style="color: #888; margin: 0; font-size: 0.85rem;">Designer & Co-Owner</p>
+  <br/>
+  <a href="https://github.com/H3-GaminG"><img src="https://img.shields.io/badge/GitHub-H3_GaminG-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+  <br/>
+  <a href="https://discord.com/users/1107939269957406821"><img src="https://img.shields.io/badge/Discord-Hadi-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" /></a>
+</td>
+<td align="center" width="33%">
+  <img src="https://github.com/WroxExm.png" width="150" style="border-radius: 50%; border: 3px solid #FFB347;" /><br/><br/>
+  <h3 style="color: #FFB347; margin: 5px 0;">🐺 Wrox</h3>
+  <p style="color: #b0b0b0; margin: 0;"><strong>Developer</strong></p>
+  <p style="color: #888; margin: 0; font-size: 0.85rem;">Backend & Infrastructure</p>
+  <br/>
+  <a href="https://github.com/WroxExm"><img src="https://img.shields.io/badge/GitHub-WroxExm-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
 </td>
 <td align="center" width="33%">
   <img src="https://github.com/snakkeeh.png" width="150" style="border-radius: 50%; border: 3px solid #FFA500;" /><br/><br/>
@@ -407,38 +445,9 @@
   <br/>
   <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-Snake-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" /></a>
 </td>
-<td align="center" width="33%">
-  <img src="https://github.com/H3-GaminG.png" width="150" style="border-radius: 50%; border: 3px solid #FF8C00;" /><br/><br/>
-  <h3 style="color: #FF8C00; margin: 5px 0;">🎨 Hadi</h3>
-  <p style="color: #b0b0b0; margin: 0;"><strong>UI/UX Designer</strong></p>
-  <p style="color: #888; margin: 0; font-size: 0.85rem;">Designer & Co-Owner</p>
-  <br/>
-  <a href="https://github.com/H3-GaminG"><img src="https://img.shields.io/badge/GitHub-H3_GaminG-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
-  <br/>
-  <a href="https://discord.com/users/1107939269957406821"><img src="https://img.shields.io/badge/Discord-Hadi-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" /></a>
-</td>
 </tr>
 <tr>
-<td align="center" width="25%">
-  <img src="https://github.com/oxckyalive.png" width="140" style="border-radius: 50%; border: 3px solid #DAA520;" /><br/><br/>
-  <h3 style="color: #DAA520; margin: 5px 0;">👑 Oxeey</h3>
-  <p style="color: #b0b0b0; margin: 0;"><strong>Owner</strong></p>
-  <p style="color: #888; margin: 0; font-size: 0.85rem;">Project Management</p>
-  <br/>
-  <a href="https://github.com/oxckyalive"><img src="https://img.shields.io/badge/GitHub-Oxeeyz-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
-  <br/>
-  <a href="https://discord.com/users/1050593287590920232"><img src="https://img.shields.io/badge/Discord-Oxeeyz-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" /></a>
-</td>
-<td align="center" width="25%">
-  <img src="https://github.com/WroxExm.png" width="140" style="border-radius: 50%; border: 3px solid #FFB347;" /><br/><br/>
-  <h3 style="color: #FFB347; margin: 5px 0;">🐺 Wrox</h3>
-  <p style="color: #b0b0b0; margin: 0;"><strong>Developer</strong></p>
-  <p style="color: #888; margin: 0; font-size: 0.85rem;">Backend & Infrastructure</p>
-  <br/>
-  <a href="https://github.com/WroxExm"><img src="https://img.shields.io/badge/GitHub-WroxExm-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
-  <br/>
-</td>
-<td align="center" width="50%" colspan="2">
+<td align="center" colspan="3">
   <br/><br/>
   <h3 style="color: #FFD700;">🤝 Contributors</h3>
   <p style="color: #b0b0b0;">Special thanks to everyone who helps make Nazha better!</p>
@@ -468,7 +477,7 @@
 
 <br/>
 
-[![Invite Nazha](https://img.shields.io/badge/🎵_INVITE_NAZHA-ADD_TO_SERVER-FFD700?style=for-the-badge&logo=discord&logoColor=black&labelColor=1a1a2e&borderColor=FFD700)](https://nazha.netlify.app)
+[![Invite Nazha](https://img.shields.io/badge/🎵_INVITE_NAZHA-ADD_TO_SERVER-FFD700?style=for-the-badge&logo=discord&logoColor=black&labelColor=1a1a2e&borderColor=FFD700)](https://nazha.online)
 
 <br/>
 
