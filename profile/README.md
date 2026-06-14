@@ -396,24 +396,24 @@
   <a href="https://discord.com/users/1119608253765132369"><img src="https://img.shields.io/badge/Discord-Nazah-e-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" /></a>
 </td>
 <td align="center" width="33%">
-  <img src="https://github.com/oxeeyz.png" width="150" style="border-radius: 50%; border: 3px solid #DAA520;" /><br/><br/>
+  <img src="https://github.com/oxckyalive.png" width="150" style="border-radius: 50%; border: 3px solid #DAA520;" /><br/><br/>
   <h3 style="color: #DAA520; margin: 5px 0;">👑 Oxeey</h3>
   <p style="color: #b0b0b0; margin: 0;"><strong>Owner</strong></p>
   <p style="color: #888; margin: 0; font-size: 0.85rem;">Project Management</p>
   <br/>
-  <a href="https://github.com/oxeeyz"><img src="https://img.shields.io/badge/GitHub-Oxeeyz-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+  <a href="https://github.com/oxckyalive"><img src="https://img.shields.io/badge/GitHub-Oxeeyz-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
   <br/>
   <a href="https://discord.com/users/1050593287590920232"><img src="https://img.shields.io/badge/Discord-Oxeeyz-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" /></a>
 </td>
 <td align="center" width="33%">
-  <img src="https://github.com/raziscofield.png" width="150" style="border-radius: 50%; border: 3px solid #FFD700;" /><br/><br/>
+  <img src="https://github.com/knownasrazi.png" width="150" style="border-radius: 50%; border: 3px solid #FFD700;" /><br/><br/>
   <h3 style="color: #FFD700; margin: 5px 0;">🌟 Razi</h3>
   <p style="color: #b0b0b0; margin: 0;"><strong>Lead Developer</strong></p>
   <p style="color: #888; margin: 0; font-size: 0.85rem;">Creator & Maintainer</p>
   <br/>
-  <a href="https://github.com/raziscofield"><img src="https://img.shields.io/badge/GitHub-raziscofield-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+  <a href="https://github.com/knownasrazi"><img src="https://img.shields.io/badge/GitHub-knownasrazi-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
   <br/>
-  <a href="https://discord.com/users/875402851986325504"><img src="https://img.shields.io/badge/Discord-razi__scofield-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" /></a>
+  <a href="https://discord.com/users/875402851986325504"><img src="https://img.shields.io/badge/Discord-knownasrazi-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" /></a>
 </td>
 </tr>
 <tr>
