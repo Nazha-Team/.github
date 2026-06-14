@@ -419,17 +419,26 @@
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
-  <img src="https://github.com/oxeeyz.png" width="150" style="border-radius: 50%; border: 3px solid #DAA520;" /><br/><br/>
+<td align="center" width="25%">
+  <img src="https://github.com/oxckyalive.png" width="140" style="border-radius: 50%; border: 3px solid #DAA520;" /><br/><br/>
   <h3 style="color: #DAA520; margin: 5px 0;">👑 Oxeey</h3>
   <p style="color: #b0b0b0; margin: 0;"><strong>Owner</strong></p>
   <p style="color: #888; margin: 0; font-size: 0.85rem;">Project Management</p>
   <br/>
-  <a href="https://github.com/oxeeyz"><img src="https://img.shields.io/badge/GitHub-Oxeeyz-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+  <a href="https://github.com/oxckyalive"><img src="https://img.shields.io/badge/GitHub-Oxeeyz-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
   <br/>
   <a href="https://discord.com/users/1050593287590920232"><img src="https://img.shields.io/badge/Discord-Oxeeyz-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" /></a>
 </td>
-<td align="center" width="33%" colspan="2">
+<td align="center" width="25%">
+  <img src="https://github.com/WroxExm.png" width="140" style="border-radius: 50%; border: 3px solid #FFB347;" /><br/><br/>
+  <h3 style="color: #FFB347; margin: 5px 0;">🐺 Wrox</h3>
+  <p style="color: #b0b0b0; margin: 0;"><strong>Developer</strong></p>
+  <p style="color: #888; margin: 0; font-size: 0.85rem;">Backend & Infrastructure</p>
+  <br/>
+  <a href="https://github.com/WroxExm"><img src="https://img.shields.io/badge/GitHub-WroxExm-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+  <br/>
+</td>
+<td align="center" width="50%" colspan="2">
   <br/><br/>
   <h3 style="color: #FFD700;">🤝 Contributors</h3>
   <p style="color: #b0b0b0;">Special thanks to everyone who helps make Nazha better!</p>
