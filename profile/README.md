@@ -419,7 +419,7 @@
 <tr>
 <td align="center" width="33%">
   <img src="https://github.com/H3-GaminG.png" width="150" style="border-radius: 50%; border: 3px solid #FF8C00;" /><br/><br/>
-  <h3 style="color: #FF8C00; margin: 5px 0;">🎨 Hadi</h3>
+  <h3 style="color: #FF8C00; margin: 5px 0;">🎨 H3</h3>
   <p style="color: #b0b0b0; margin: 0;"><strong>UI/UX Designer</strong></p>
   <p style="color: #888; margin: 0; font-size: 0.85rem;">Designer & Co-Owner</p>
   <br/>
