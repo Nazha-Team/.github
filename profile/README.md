@@ -10,15 +10,15 @@ No paywalls. No vote locks. No limits.
 
 <br/>
 
-<img src="https://img.shields.io/badge/servers-1,000%2B-FFD700?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/users-400K%2B-FFA500?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/servers-2,000%2B-FFD700?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/users-1.4M%2B-FFA500?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/uptime-99.9%25-FFD700?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/features-70%2B-FF8C00?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/commands-70%2B-FF8C00?style=flat-square&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/license-MIT-FFD700?style=flat-square&labelColor=1a1a2e" />
 
 <br/><br/>
 
-[**Invite Nazha**](https://nazha.online) · [**Website**](https://nazha.netlify.app) · [**Support Server**](https://discord.gg/8a8EPeu8)
+[**Invite Nazha**](https://invite.nazha.online) · [**Website**](https://nazha.online) · [**Support Server**](https://support.nazha.online)
 
 </div>
 
@@ -27,6 +27,32 @@ No paywalls. No vote locks. No limits.
 ## About
 
 Nazha is a Discord music bot built for reliability and speed, with every feature available to every server at no cost. There are no premium tiers, no vote requirements, and no artificial limits — just music.
+
+<div align="center">
+<br/>
+
+<img src="https://quickchart.io/chart?c={type:'line',data:{labels:['Launch','Q2','Q3','Q4','Now'],datasets:[{label:'Servers',data:[50,400,900,1500,2000],borderColor:'%23FFD700',fill:false},{label:'Users (in thousands)',data:[10,150,500,900,1400],borderColor:'%23FFA500',fill:false}]},options:{legend:{labels:{fontColor:'%23ffffff'}},scales:{xAxes:[{ticks:{fontColor:'%23ffffff'}}],yAxes:[{ticks:{fontColor:'%23ffffff'}}]}},backgroundColor:'%231a1a2e'}" width="600" alt="Growth chart" />
+
+<sub>Servers and users since launch</sub>
+
+</div>
+
+---
+
+## Why Nazha over a paywalled bot?
+
+Plenty of music bots make you vote every 12 hours just to skip a song, or lock 24/7 mode, filters, and playlists behind a $5/month tier. Nazha doesn't do that.
+
+| | Nazha | The "free" bot with a `/premium` command |
+|---|---|---|
+| Skip a song | Just works | Vote on top.gg, wait, pray the API isn't down |
+| 24/7 mode | Included | "Upgrade to Pro" |
+| Audio filters | All of them, always | 2 free, 8 locked |
+| Queue limit | None | 10 songs unless you pay |
+| Vote nagging | Never | Every command, every time |
+| Actual cost | $0 | $0 up front, $60/year in fine print |
+
+If your current bot's help menu looks like a pricing page, you know where to find us.
 
 ## Features
 
@@ -49,7 +75,7 @@ Nazha is a Discord music bot built for reliability and speed, with every feature
 | Framework | Seyfert |
 | Database | SQLite (Turso) via Drizzle ORM |
 | Caching | Redis |
-| Audio Engine | In-house streaming pipeline |
+| Audio Engine | **AudioCore** — built in-house by the Nazha team |
 
 ## Commands
 
@@ -134,7 +160,7 @@ Nazha is a Discord music bot built for reliability and speed, with every feature
 
 ## Getting Started
 
-1. [Invite Nazha](https://nazha.online) to your server
+1. [Invite Nazha](https://invite.nazha.online) to your server
 2. Join a voice channel
 3. Run `/play <song name>`
 
@@ -153,18 +179,47 @@ Yes, via `/247` — no subscription required.
 
 ## Team
 
-| | | |
-|---|---|---|
-| **Oxeey** — Owner | **Razi** — Lead Developer | **H3** — UI/UX Designer |
-| [GitHub](https://github.com/oxckyalive) · [Discord](https://discord.com/users/1050593287590920232) | [GitHub](https://github.com/knownasrazi) · [Discord](https://discord.com/users/875402851986325504) | [GitHub](https://github.com/H3-GaminG) · [Discord](https://discord.com/users/1107939269957406821) |
-| **Wrox** — Backend & Infrastructure | **Snake** — Core Architecture & Backend | |
-| [GitHub](https://github.com/WroxExm) | [GitHub](https://github.com/snakkeeh) | |
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://github.com/oxckyalive.png" width="90" style="border-radius:50%;" /><br/>
+<b>Oxeey</b><br/><sub>Owner</sub><br/>
+<a href="https://github.com/oxckyalive">GitHub</a> · <a href="https://discord.com/users/1050593287590920232">Discord</a>
+</td>
+<td align="center" width="20%">
+<img src="https://github.com/knownasrazi.png" width="90" style="border-radius:50%;" /><br/>
+<b>Razi</b><br/><sub>Lead Developer</sub><br/>
+<a href="https://github.com/knownasrazi">GitHub</a> · <a href="https://discord.com/users/875402851986325504">Discord</a>
+</td>
+<td align="center" width="20%">
+<img src="https://github.com/H3-GaminG.png" width="90" style="border-radius:50%;" /><br/>
+<b>H3</b><br/><sub>UI/UX Designer</sub><br/>
+<a href="https://github.com/H3-GaminG">GitHub</a> · <a href="https://discord.com/users/1107939269957406821">Discord</a>
+</td>
+<td align="center" width="20%">
+<img src="https://github.com/WroxExm.png" width="90" style="border-radius:50%;" /><br/>
+<b>Wrox</b><br/><sub>Backend & Infrastructure</sub><br/>
+<a href="https://github.com/WroxExm">GitHub</a>
+</td>
+<td align="center" width="20%">
+<img src="https://github.com/snakkeeh.png" width="90" style="border-radius:50%;" /><br/>
+<b>Snake</b><br/><sub>Core Architecture & Backend</sub><br/>
+<a href="https://github.com/snakkeeh">GitHub</a>
+</td>
+</tr>
+</table>
+</div>
 
 Thanks to everyone who contributes bug reports, translations, moderation, and testing.
 
+<div align="center">
+<img src="https://contrib.rocks/image?repo=nazha-creators/nazha" width="180" />
+</div>
+
 ## Support
 
-Join the [Discord support server](https://discord.gg/8a8EPeu8) or reach out at [addnazha4@gmail.com](mailto:addnazha4@gmail.com).
+Join the [support server](https://support.nazha.online) or reach out at [addnazha4@gmail.com](mailto:addnazha4@gmail.com).
 
 ## License
 
